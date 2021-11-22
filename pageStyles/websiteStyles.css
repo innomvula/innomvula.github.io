@@ -156,6 +156,10 @@
   text-align: center;
 }
 
+.para a {
+  color: white;
+}
+
 @media all and (min-width: 1281px) {
   .para {
     font-size: 1.2em;
